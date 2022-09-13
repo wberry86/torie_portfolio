@@ -1,0 +1,16 @@
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+
+.underline {
+    text-align: center;
+    background-color: black;
+    height: 3px;
+    width: 100%;
+}
+
+footer {
+    font-weight: bolder;
+}
